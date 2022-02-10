@@ -1,5 +1,11 @@
 # 우리동네댕댕이
 
+> 서비스를 실행한 모습
+
+![image--137](https://user-images.githubusercontent.com/19153459/153464683-dcec4e00-74a3-4666-83f0-6bca5b05f1af.png)
+![image--123](https://user-images.githubusercontent.com/19153459/153464679-41a44aca-70d5-47c5-927b-d8c4ba0906ba.png)
+![image--153](https://user-images.githubusercontent.com/19153459/153464659-e97fe1cf-8ac7-4991-afc1-a449efd17932.png)
+
 ### 개발환경
 
 - React Native + Typescript
